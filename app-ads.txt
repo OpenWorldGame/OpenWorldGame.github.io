@@ -1,4 +1,6 @@
-ownerdomain=https://openworldgame.github.io/app-ads.txt, 1519141, DIRECT, 96cabb5fbdde37a7
+ownerdomain=https://openworldgame.github.io/app-ads.txt
+
+unity.com, 1519141, DIRECT, 96cabb5fbdde37a7
 
 loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
 
